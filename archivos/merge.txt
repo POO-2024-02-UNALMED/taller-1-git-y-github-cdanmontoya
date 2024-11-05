@@ -1,3 +1,6 @@
 Carlos Daniel
 26
 Aprender a compartir el conocimiento
+La carpeta antes estaba vacía y por eso no se detectaba
+
+Porque se pueden presentar conflictos
